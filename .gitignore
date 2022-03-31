@@ -135,4 +135,4 @@ dmypy.json
 .vscode
 .idea/
 config/secrets.yaml
-./env
+/data

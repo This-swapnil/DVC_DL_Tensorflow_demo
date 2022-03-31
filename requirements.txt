@@ -6,3 +6,6 @@ tqdm
 PyYAML
 dvc
 boto3
+
+# local setup installtion
+-e .
